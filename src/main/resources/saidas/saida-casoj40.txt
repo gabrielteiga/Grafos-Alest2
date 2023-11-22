@@ -98,23 +98,4 @@ casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 181400ns
 casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 186400ns
 casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 176200ns
 casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 188900ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 1245700ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 920300ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 435100ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 287600ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 366400ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 261000ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 196800ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 233600ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 244800ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 245200ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 1765000ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 1146400ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 614900ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 585600ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 465600ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 186100ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 185000ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 261700ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 306400ns
-casoj40 - Resultado: 4307147029 Hidrogênios - Tempo de Execução: 196600ns
+

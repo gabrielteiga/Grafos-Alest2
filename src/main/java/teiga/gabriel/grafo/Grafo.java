@@ -1,39 +1,5 @@
-/** @author Gabriel Teiga
- *  Algoritmo que verifica, a partir de um grafo direcionado, quantos hidrogenios sao necessarios para que seja criado um ouro.
- *
- *  algoritmo(){
- *      Para cada Vertice u adjacente ao Vertice Hidrogenio{
- *          se u.cor == BRANCO{
- *              pilha.empilha(visita(u));
- *          }
- *      }
- *      enquanto pilha não estiver vazia{
- *          resultado += pilha.desempilha();
- *      }
- *      return resultado;
- *  }
- *
- *  visita(Vertice v){
- *      v.emAnalise();
- *      resultado = 0;
- *
- *      para cada Vertice u adjacente ao Vertice v{
- *          se u.cor == BRANCO{
- *               resultado = resultado + (visita(u) * aresta.peso);
- *          } se u.cor == VERMELHO{
- *              resultado = resultado + (u.peso * aresta.peso);
- *          }
- *      }
- *      v.foiVisitado();
- *      se v.nomeElemento.equals("ouro"){
- *          v.peso = 1;
- *      } else{
- *          v.peso = resultado;
- *      }
- *      return resultado;
- *   }
- *
- *   Por padrão, cada vértice tem seu peso inicializado com a cor Branca, ele será modificado após ser visitado.
+/** 
+ * @author Gabriel Palominos Teiga
  * */
 
 package teiga.gabriel.grafo;
@@ -48,12 +14,12 @@ import java.math.BigInteger;
 import java.util.*;
 
 public class Grafo {
-
-    public static final String CASO = "casoj40";
+    private String caso;
     private Map<String, Vertice> grafo;
 
-    public Grafo(){
+    public Grafo(String nomeCaso){
         this.grafo = new HashMap<>();
+        this.caso = nomeCaso;
     }
 
     public Map<String, Vertice> getGrafo() {
@@ -62,7 +28,7 @@ public class Grafo {
 
     public void carregaGrafo() throws IOException {
         Leitor leitor = new Leitor();
-        String path = "src/main/resources/casos/" + CASO + ".txt";
+        String path = "src/main/resources/casos/" + caso + ".txt";
         leitor.carregaGrafoPorArquivo(path, this);
     }
 
