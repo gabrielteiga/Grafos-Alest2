@@ -1,0 +1,478 @@
+14 hidrogenio -> 1 trekkonite
+6 hidrogenio -> 1 hajdukon
+10 hidrogenio -> 1 flandergon
+9 hidrogenio -> 1 arsenalium
+15 hidrogenio -> 1 aromatium
+13 hidrogenio -> 1 erbio
+7 hidrogenio -> 1 alderaanite
+18 hidrogenio -> 1 atomixite
+9 hidrogenio -> 1 bismuto
+4 hidrogenio -> 1 bocajuniun
+14 hidrogenio -> 1 tantalio
+3 hidrogenio -> 1 astronium
+15 hidrogenio -> 1 gollumon
+7 hidrogenio -> 1 arsenio
+10 hidrogenio -> 1 metallorium
+2 hidrogenio -> 1 besiktasium
+13 hidrogenio -> 1 breakingium
+18 hidrogenio -> 1 niquel
+16 hidrogenio -> 1 niobio
+16 hidrogenio -> 1 madridite
+7 hidrogenio -> 1 barcafonium
+11 hidrogenio -> 1 blueson
+4 hidrogenio -> 1 trenzaloreon
+3 hidrogenio -> 1 aaylasecurium
+10 hidrogenio -> 1 futuritron
+18 hidrogenio -> 1 terbio
+20 hidrogenio -> 1 hothium
+10 hidrogenio -> 1 valenciaon
+2 hidrogenio -> 1 moncalamariite
+8 hidrogenio -> 1 synthetonium
+2 hidrogenio -> 1 germanio
+5 hidrogenio -> 1 spideygon
+14 hidrogenio -> 1 aqualite
+2 hidrogenio -> 1 aurorium
+20 hidrogenio -> 1 betison
+6 hidrogenio -> 1 astroglide
+18 hidrogenio -> 1 walterwhiteon
+10 hidrogenio -> 1 anderlechton
+18 hidrogenio -> 1 biomagnium
+12 hidrogenio -> 1 gamorreanium
+14 hidrogenio -> 1 energonium
+6 hidrogenio -> 1 aetheron
+5 hidrogenio -> 1 torinum
+16 hidrogenio -> 1 aaylasecuron
+7 hidrogenio -> 1 adamaite
+19 hidrogenio -> 1 utapauon
+15 hidrogenio -> 1 estanho
+17 hidrogenio -> 1 barbite
+4 hidrogenio -> 1 calcio
+2 hidrogenio -> 1 lutecio
+18 hidrogenio -> 1 netunio
+8 hidrogenio -> 1 bario
+8 hidrogenio -> 1 rebelion
+1 hidrogenio -> 1 berilio
+13 hidrogenio -> 1 reddevilium
+19 hidrogenio -> 1 iodo
+1 hidrogenio -> 1 muggletonium
+4 hidrogenio -> 1 bespinium
+2 hidrogenio -> 1 eopieon
+10 hidrogenio -> 1 bazingonium
+15 hidrogenio -> 1 barysilicate
+16 hidrogenio -> 1 baselium
+20 hidrogenio -> 1 bayernite
+6 hidrogenio -> 1 rubidio
+7 hidrogenio -> 1 antimonio
+7 hidrogenio -> 1 actinio
+5 hidrogenio -> 1 hobbiteon
+19 hidrogenio -> 1 shamrockrovium
+4 hidrogenio -> 1 wattoon
+18 hidrogenio -> 1 arcanite
+9 hidrogenio -> 1 bothanion
+3 hidrogenio -> 1 ahsokium
+13 hidrogenio -> 1 asimovium
+7 hidrogenio -> 1 biovortex
+1 hidrogenio -> 1 atleticon
+13 hidrogenio -> 1 disprosio
+19 hidrogenio -> 1 bolognium
+1 hidrogenio -> 1 felucianon
+17 hidrogenio -> 1 astato
+11 hidrogenio -> 1 graviphoton
+11 hidrogenio -> 1 treboron
+2 hidrogenio -> 1 barbtonium
+7 hidrogenio -> 1 bioresin
+1 hidrogenio -> 1 bayernium
+17 hidrogenio -> 1 bromo
+12 hidrogenio -> 1 argonio
+7 hidrogenio -> 1 atomogen
+8 hidrogenio -> 1 aquatronium
+6 hidrogenio -> 1 barcelonium
+14 hidrogenio -> 1 kashyyykon
+14 hidrogenio -> 1 atomorphium
+16 hidrogenio -> 1 boro
+20 hidrogenio -> 1 bioquarkium
+11 hidrogenio -> 1 corinthiansium
+20 hidrogenio -> 1 aerozonium
+13 hidrogenio -> 1 benficium
+13 hidrogenio -> 1 bothanite
+5 hidrogenio -> 1 ajaxite
+1 hidrogenio -> 1 biochromium
+4 hidrogenio -> 1 aethertium
+17 hidrogenio -> 1 angelite
+10 hidrogenio -> 1 tyrionite
+3 hidrogenio -> 1 biogalvanite
+5 hidrogenio -> 1 cybertronium
+6 hidrogenio -> 1 manchesterite
+10 hidrogenio -> 1 moncalitonium
+8 hidrogenio -> 1 quantumite
+2 hidrogenio -> 1 gadolinio
+20 hidrogenio -> 1 guingampium
+18 hidrogenio -> 1 buffytonium
+7 hidrogenio -> 1 pottgon
+10 hidrogenio -> 1 aberdeenon
+5 hidrogenio -> 1 borgite
+18 hidrogenio -> 1 aluminio
+4 hidrogenio -> 1 xphileon
+7 hidrogenio -> 1 auxerreton
+4 hidrogenio -> 1 skywalkite
+11 rikkonian 14 fireflyon 5 promecio 19 rosenborgite 3 chissitonium 19 photogelium 13 forceston 2 mandalorium 2 moncalamarite 4 radonio 17 dalektonium 9 galio -> 1 scoobyite
+6 malcolmite 19 stormtroopon 5 astronium 12 palpatinium 10 oxigenio 3 jediium 7 exotrilium 7 chronovium 18 legiaon 20 sheldonite 17 itrio 1 smeagolon -> 1 targaryenium
+4 geomorphium 17 carbono 11 iodo 16 asimovium 5 bromo 19 hamburgerium 13 guingampium -> 1 kaminoon
+10 phasergen 6 nautolanon 19 deathstarium 17 niquel 17 felucianite 3 goonerium 20 mandalorium 1 polymorfium 13 galatasarayon 2 eopieon 4 jayneston 6 michonneon 18 cesio 7 lantanio 14 chumbo -> 1 psvon
+2 rubinkazanon 5 quagganite 4 radiotrite 14 rodio 8 iterbio 10 ewokite 5 chronovium 2 bothanite 9 guingampium -> 1 vulptexon
+19 hajdukon 10 chissitonium 11 hermioneon 15 juventonium 5 petrocarbon 15 neogalvanium -> 1 shakhtarton
+7 enxofre 15 atomixite 11 arsenio 11 aqualite 10 oxigenio 10 aurorium 10 echanius 6 neonio 14 asimovium 17 chissite 5 litio 8 manchesterite -> 1 prata
+12 gryffindorium 12 iridio 5 moncalamarion 9 metallorium 3 magnifirium 10 pyroplasmium 11 quantumflux 17 berilio 15 radiogen 14 cesio 5 ajaxite 15 napolonium -> 1 rickonium
+20 aromatium 15 criptonio 1 calcio 20 iodo 4 galatasarayon 13 dumbledorium 8 atomogen 2 neimoidianite 17 atomorphium 20 dalektonium 19 bothanite 11 aethertium 19 gadolinio 14 jawaton -> 1 partizanum
+2 erbio 8 barbite 10 doctorium 13 mercurio 9 aquatronium 20 chewbacconium 16 gravitonite 13 ionithium -> 1 plasmalite
+3 deathstarium 12 cthulhuon 15 galatasarayon 18 dortmundium 20 felucianon 10 atomogen -> 1 hermioneon
+14 malcolmite 3 rikkonian 5 erbio 16 betison 20 baselium 3 nanteson 12 astato -> 1 zeniton
+9 erbio 14 atomixite 15 europio 11 fluxogel 18 aqualite 6 cromo 4 bazingonium 18 antimonio 17 celticron 3 disprosio 18 gemstonium 7 chewbacconium 18 gadolinio -> 1 geonosianium
+5 gryffindorium 6 geoquarkium 12 fiorentinon 13 paladio 15 photogelium 15 palpatinium 17 huttalonium 14 huttite 18 ewokite 19 dinamozagrebon 9 biovortex 14 joffreygon 14 rickonium 9 infinisphere 13 ionithium -> 1 rostovon
+13 lyonon 16 rosenborgite 13 fluor 20 molibdenio 7 sevillon 15 netunio 3 echanius 5 neogalvanium 11 katnissium -> 1 sithon
+7 aromatium 10 dathomiron 17 cobalto 19 coruscantite 19 bazingonium 13 actinio 8 aerozonium 7 chewbacconium -> 1 deathstarium
+7 cerio 18 rikkonian 17 gryffindorium 15 geonosianon 10 mercurio 4 hobbiteon 12 osmio 13 barbtonium 6 soloite 18 bioresin 8 aquatronium 1 quantumfire 16 darksidium 18 jawaton -> 1 werderon
+6 iridio 13 bocajuniun 2 chissitonium 17 barcafonium 4 jediium 17 disprosio 7 graviphoton 17 bioresin 19 bayernium 9 lantanio 11 cosmodium 4 itrio 20 hamburgerium 4 kashyyykon 15 gadolinio -> 1 laziopton
+4 herthaton 5 cobre 14 bocajuniun 17 nabooon 11 echanius 8 huttite 17 leverkusenium 10 cryophasium 18 lensite -> 1 potassio
+6 geomorphium 17 deathstarium 12 aaylasecurium 1 futuritron 19 cadmio 20 aqualite 9 cloro 20 asimovium 1 biovortex 2 felucianon 13 bayernium 17 daenerysium 10 gravitonite -> 1 gunganon
+1 herthaton 8 fluxogel 15 criptonio 7 aurorium 9 goonerium 15 echanium 8 doctorium 17 gunganon 19 bolognium 11 corinthiansium 13 benficium 16 ajaxite 20 angelite 12 buffytonium 3 borgite -> 1 jayneston
+19 saintetiennium 16 psvon 9 astroglide 8 olimpijaon 8 hologronium 6 olympiakiton 20 atleticon 8 grootium 12 sithon 18 bioquarkium -> 1 spectroblast
+17 sheldonon 17 fluor 17 bespinium 11 huttalonium 4 escandio 6 chronovium 12 celticron 14 gunganon 6 rickonium 15 astato 3 gamorreanum 8 daeneryston 8 ajaxite 14 manchesteron -> 1 tiberium
+8 bismuto 20 deathstarium 14 tantalio 10 kashyykium 1 rodianon 14 iterbio 11 juventonium 7 eintrachtite 13 chronotanium 3 hodorium 15 litio 12 neotriton 20 skywalkite -> 1 weasleyium
+10 bocajuniun 2 breakingium 8 aaylasecuron 2 adamaite 1 bazingonium 10 astato 20 aerozonium -> 1 carbono
+1 echanius 4 barysilicate 20 jarjarium 12 dumbledorium 16 holmio 19 corinthiansium -> 1 monaconium
+11 spockonium 14 potassio 6 bario 13 eintrachtite 17 fosforo 14 shakhtarton 4 quantumfire 20 buffytonium -> 1 tecnecio
+15 hajdukon 11 enxofre 4 lyonon 18 infinicon 7 aaylasecuron 3 liverpudlium 7 fosforo 9 hamburgerium 17 bothanite 15 cybertronium -> 1 macewinduon
+7 betison 12 aetheron 7 chronotanium 18 asimovium 3 cryophasium 2 darksidium 9 chelsegon -> 1 gemstonium
+18 carbono 5 cromo 1 calcio 9 celticron 4 bioresin 2 itrio -> 1 nabooon
+12 bocajuniun 19 breakingium 19 celticron 10 arcanite 18 biovortex 19 atomogen 20 boro 16 bioquarkium 13 bothanite 2 angelite 4 biogalvanite -> 1 chronotanium
+7 malcolmite 19 nautolanon 11 ferro 4 aaylasecurium 6 lightsaberon 1 nabooon 19 neotrium 20 estanho 2 echanium 10 jayneston 8 phaseron 8 rangersite 6 dumbledorium 4 droidium 19 gravitonite -> 1 renio
+18 rikkonium 18 enxofre 13 promecio 13 carbono 8 scullygonium 1 echanius 17 spectroflame 17 macewinduon 6 litio 8 ajaxite 6 silicio 1 wookiegon -> 1 yavinon
+2 geoquarkium 16 skywalkerium 9 potassio 11 portothon 7 netunio 8 solvigenium 16 sulfurion 4 gunganon 18 cosmodium 1 neimoidianite 5 spocktonium -> 1 wookium
+10 arsenalium 5 gandalfite 7 juventon 20 fireflyon 8 fluxogel 13 energonium 9 fringon 11 bario 6 liverpudlium 1 geonosianon 8 baselium 10 graviphoton 20 laziopton 12 bayernium 15 dalektonium -> 1 lumitron
+18 geomorphium 4 juventon 13 iridio 7 futuritron 7 dathomiron 15 fluor 16 escandio 2 cosmodium 17 kashyyykon 1 chewbacconium 18 guingampium -> 1 luminesium
+13 futuritron 15 infinicon 18 anderlechton 14 gamorreanium 10 adamaite 14 escandio 5 cesio 15 bolognium 5 boro 15 chumbo -> 1 interon
+11 hermioneon 7 madridite 16 criptonio 14 cyclotronium 19 disprosio 4 hodorium 16 bothanite 2 cybertronium -> 1 mandalorinon
+14 nautolanon 1 chissitonium 17 felucianite 20 infinicon 18 neoplasticite 18 gamorreanium 4 iterbio 20 bespinium 11 huttalonium 16 hafnio 20 milanium 16 bolognium 2 napolonium 6 aberdeenon -> 1 phototritium
+15 blueson 9 cadmio 3 bazingonium 5 bothanion 8 atleticon 12 aerozonium 20 bothanite 16 biochromium 4 borgite -> 1 chissitonium
+14 arsenalium 10 arsenio 17 aaylasecurium 10 bespinium 7 actinio 1 celticron 5 arcanite 4 biovortex 20 argonio 20 benficium 11 aberdeenon 5 borgite -> 1 cerio
+2 bocajuniun 11 mortygon 16 nabooianon 10 milanion 1 gamorreanium 8 aetheron 13 celticron 2 gunganon 17 laziopton 19 atomorphium 15 biochromium 6 gravitrin 17 cyclonite -> 1 nanteson
+7 chissium 12 bismuto 8 cryosynthium 15 chissitonium 14 barcafonium 17 cadmio 8 forceston 4 bespinium 2 angelite 3 cybertronium -> 1 fosforo
+10 enxofre 12 atomixite 16 besiktasium 3 helio 17 cesio 2 holmio 3 kaminoon 8 interon -> 1 kylorenium
+9 flandergon 14 fiorentinon 16 breakingium 13 hobbitonite 6 iterbio 15 ewokite 10 hobbiteon 18 gunganon 2 heisenbergium 12 hamburgerium 18 bioquarkium -> 1 jabbaton
+18 cerio 15 astronium 12 cryosynthium 18 aaylasecurium 10 copenhagon 2 cylonium 7 aetheron 17 bario 12 bromo 16 corinthiansium -> 1 estroncio
+10 paladio 7 mandalorinon 19 ferro 19 copenhagon 17 dathomiron 12 molibdenio -> 1 stormtroopon
+16 cryotrite 2 energonium 11 adamaite 20 barbite 12 actinio 13 celticron 12 dinamozagrebon 10 fosforo 6 bioresin 20 hamburgerium 4 ajaxite 5 gravitrin 9 borgite -> 1 holmio
+4 lumitron 7 juventon 6 mandalorinon 4 barcafonium 6 carbono 19 gunganon 8 radonio 7 lorienton 11 marseilleon 18 picardium -> 1 rikkonian
+14 chissium 7 spartakron 10 jabbaton 5 oxigenio 5 nabooon 17 plasmogen 16 napolonium -> 1 twilektonium
+9 aqualite 9 gamorreanium 15 echanius 5 ewokite 1 ahsokium 11 biochromium 17 aluminio 10 auxerreton -> 1 grootium
+9 cthulhuon 4 europio 6 cylonium 14 barbite 11 chronovium 16 estroncio 3 atleticon 16 argonio 3 cryogenium 19 borgite 1 auxerreton 6 cyclonite -> 1 fenerbahcite
+10 germanio 16 geocarbonium 3 aurorium 17 goonerium 17 astroglide 5 estanho 8 eopieon 6 hobbiteon 2 chewbacconium -> 1 jediium
+16 rodianon 16 germanio 8 goonerium 5 biomagnium 3 moncalamarite 17 bespinium 1 francio 2 indio 15 hothite -> 1 rorschachon
+5 cryoferrium 1 europio 20 eintrachtite 20 ahsokium 15 disprosio 10 bromo 12 aquatronium 7 aberdeenon -> 1 ewokium
+20 nautolanon 11 chissitonium 4 endorianite 7 nitrogenio 10 indio 5 katnissium 10 chewbacconium -> 1 plasmotrite
+12 arsenalium 18 alderaanite 14 besiktasium 20 aetheron 10 aaylasecuron 18 bazingonium 1 celticron 4 astato 8 boro 13 aerozonium 12 biochromium -> 1 chelsegon
+11 kaminoium 3 madridite 1 hothium 16 nautolanium 4 anderlechton 5 rubidio 8 helio 16 atleticon 15 gamorreanum 10 cynosilicate -> 1 saintetiennium
+4 enxofre 7 arsenio 14 betison 18 adamaite 13 bazingonium 4 indio 5 holmio 5 cryophasium 12 aethertium -> 1 infinicon
+12 panathinaikosium 9 hajdukon 17 napolipton 5 arsenio 15 hermioneon 17 aqualite 14 barbite 16 calcio 13 huttalonium 11 estroncio 14 legiaon 3 olympiakiton 16 dinamozagrebon 20 aerozonium 6 manchesterite -> 1 photovoltaon
+10 aaylasecuron 13 cryostone 9 coruscantite 7 daeneryston 8 corinthiansium 6 droidium 11 angelite 17 cryogenium 2 chumbo 3 cynosilicate 11 auxerreton -> 1 flamengon
+15 berilio 17 ewokite 19 actinio 15 dortmundium 14 hodorium 4 atomorphium 5 gravitrin 13 hothite -> 1 infinisphere
+10 aromatium 5 deathstarium 9 adamaite 1 bespinium 17 eintrachtite 10 genothon 16 fluxorium 3 disprosio 12 dobbygon -> 1 geonosianon
+4 bismuto 10 bocajuniun 14 aaylasecuron 11 chronotanium 6 bothanite 4 biogalvanite 19 chelsegon -> 1 chronovium
+7 cerio 12 arsenalium 12 aaylasecurium 17 aetheron 12 bario 19 chronotanium 6 bayernium 19 barcelonium 6 atomorphium 19 bioquarkium 2 aerozonium 9 biochromium 17 chewbacconium 5 cryogenium 5 aberdeenon -> 1 cryostone
+4 cthulhuon 9 barysilicate 8 antimonio 3 chronotanium 4 barbtonium 19 corinthiansium 17 ajaxite 16 biochromium 11 angelite -> 1 dortmundium
+7 psvon 14 carbono 18 futuritron 18 nabooianon 12 exotrilium 12 barbite 14 calcio 8 neonio 4 neogalvanium -> 1 pyroplasmium
+8 cerio 10 aaylasecurium 11 adamaite 16 bayernite 1 actinio 2 biovortex 9 cosmodium 17 boro 2 bioquarkium 7 ajaxite 7 chewbacconium -> 1 cryophasium
+9 iridio 8 cylonium 15 germanio 2 hobbitonite 4 energonium 4 sylvariogen 9 echanium 6 grootium 20 twilektonium 1 marseilleon 20 litio 19 gadolinio -> 1 whovianium
+10 goonerium 11 aetheron 11 celticron 1 cryogenium 13 gravitonite 15 aluminio -> 1 pottersium
+8 malcolmite 7 arsenio 18 nautolanium 1 marseilleon 2 bioquarkium 17 gadolinio 18 aluminio -> 1 sheldonon
+7 sheldonon 13 trekkonite 5 rubinkazanon 3 olimpijaon 12 genothon 12 gunganon 7 rangersite 18 rickonium 15 threepioite 16 jacktorium 7 biochromium 20 manchesteron 20 buffytonium -> 1 xwingon
+13 gollumite 15 enxofre 12 cylonium 18 germanio 20 adamaite 14 doctorium 17 cryostone 1 eintrachtite 14 dinamozagrebon 15 cosmodium -> 1 ionithium
+15 hajdukon 4 cryotrite 8 gollumon 8 jabbaton 17 hothium 10 michonneon 10 jacktorium 5 barcelonium 2 marseilleon 6 benficium -> 1 neotrium
+3 jabbaton 2 nautolanium 8 nabooon 4 aaylasecuron 14 escandio 5 cryostone 7 millenniumium 6 hodorium 16 dobbygon 5 manchesterite 9 galio -> 1 pyroflorum
+20 erbio 17 bocajuniun 16 gollumon 8 galatasarayon 4 chronotanium 10 bioresin 8 aquatronium 9 dalektonium 4 lehavreon 18 ionithium -> 1 litio
+14 arsenalium 6 milanion 9 fluor 10 gamorreanium 20 energonium 16 exotrilium 4 geonosianon 10 michonneon 1 dumbledorium 13 cryophasium 18 argonio 14 barcelonium 2 manchesteron -> 1 mulderium
+6 arsenalium 18 cryosynthium 11 aaylasecurium 9 jediium 17 iterbio 2 huttite 3 cloro 2 bolognium 17 gadolinio -> 1 liverpudlium
+8 lumitron 19 aaylasecurium 18 hobbitonite 14 dumbledorium 2 barbtonium 19 jacktorium 10 atomorphium 20 daenerysium 11 hothite 6 aberdeenon -> 1 olympiakiton
+2 hajdukon 14 arsenalium 4 psvon 14 radio 9 praseodimio 2 sheldonite 19 gamorreanum 16 benficium 7 quantumfire 5 lannisterium 19 manchesteron -> 1 spockonium
+16 arsenalium 7 astronium 20 aurorium 11 biomagnium 7 berilio 18 barysilicate 12 antimonio 17 celticron 6 arcanite 4 bolognium 3 bayernium 19 barcelonium 17 atomorphium 6 boro -> 1 chewbacconium
+1 hajdukon 9 atomixite 18 deathstarium 11 breakingium 6 dundalkon 7 photogelium 20 jabbaton 12 iodo 9 ewokite 9 heisenbergium 18 legiaon 16 dinamozagrebon 4 grootium 19 graviphoton -> 1 picardite
+18 cobre 16 alderaanite 13 enxofre 18 bocajuniun 1 chissitonium 14 astroglide 16 aaylasecuron 8 estanho 4 echanium 5 cloro 2 dortmundium 12 ahsokium 14 atomorphium 4 darksidium -> 1 ferro
+10 gollumite 4 arsenalium 8 lyonon 11 stormtroopon 6 deathstarium 15 promecio 16 potassio 20 sylvariogen 14 olimpijaon 1 cloro 13 cryogenium 13 buffytonium 5 auxerreton -> 1 valladolidite
+5 hajdukon 19 hobbitonite 17 huttite 14 khanium 4 picardite 1 grootium -> 1 plasmogen
+18 deathstarium 7 cryoferrium 15 dathomiron 18 energonium 9 estanho 1 daenerysium 10 benficium 4 chewbacconium 9 cynosilicate 8 auxerreton -> 1 gravitrin
+12 malcolmite 15 cerio 13 lyonon 10 cthulhuon 6 anderlechton 12 biomagnium 9 juventonium 1 disprosio 3 barbtonium 10 ewokium 8 jacktorium 1 borgite -> 1 neogalvanium
+3 chissitonium 8 betison 1 berilio 15 bazingonium 7 bayernite 12 cesio 20 bothanion 11 atleticon 9 bromo 9 biogalvanite 6 buffytonium -> 1 cloro
+1 kaminoium 4 fiorentinon 17 dundalkon 13 magnifirium 7 nitrogenio 17 cromo 16 iterbio 12 huttite 7 milanium 16 bolognium 7 lehavreon -> 1 olimpijaon
+11 spockonium 15 chissium 6 chissitonium 15 astroglide 6 jediium 19 heisenbergium 14 phototritium 7 astato 18 cosmodium 18 chewbacconium 20 cryogenium -> 1 starksteron
+1 cryotrite 3 nautolanon 19 bismuto 9 fireflyon 5 portothon 7 barysilicate 1 legiaon 19 daenerysium 19 biochromium 17 lannisterium 18 biogalvanite 18 pottgon -> 1 redstarium
+20 herthaton 2 rostovon 15 paladio 20 quagganite 1 synthetonium 1 simpsonsium 14 anderlechton 6 fenerbahcite 16 spectroflame 19 gemstonium 6 daenerysium 10 quantumfire -> 1 tuskeniton
+7 cerio 13 flandergon 17 felucianite 16 forceston 16 hobbitonite 17 exotrilium 2 genothon 13 dortmundium 5 jacktorium 11 atomorphium 20 galio 19 aberdeenon 4 auxerreton -> 1 protactinio
+6 gandalfite 9 niobio 20 magnifirium 14 infinicon 3 neoplasticite 15 moncalamarite 14 polymorfium 10 millenniumium 11 cloro 5 indio 2 cyclotronium 7 olympiakiton 16 chissite 5 itrio -> 1 quantumflux
+8 erbio 11 astronium 11 besiktasium 12 hobbitonite 7 geonosianium 17 reddevilium 5 coruscantite 12 polonio 5 bayernite 17 biochromium 15 neotriton -> 1 skywalkerium
+3 aromatium 5 gollumon 17 besiktasium 18 mariboron 1 reddevilium 4 nebulon 15 rutenio 15 shamrockrovium 5 dumbledorium 18 phototritium 15 jacktorium 18 biochromium 14 neotriton 16 lensite -> 1 spectroflame
+8 cryotrite 20 rostovon 10 napolipton 14 tantalio 19 hyperthermium 6 skywalkerium 12 synthetonium 19 netunio 8 hafnio 10 tardision 17 targaryenon 14 treboron 5 tatooinium -> 1 voltaflux
+20 arsenio 1 estanho 2 calcio 8 ewokite 7 arcanite 14 cesio 8 biovortex 13 barbtonium 16 daeneryston 1 atomorphium 12 bothanite 7 chewbacconium 7 darksidium 11 chelsegon -> 1 gamorreanum
+11 cryotrite 19 gryffindorium 15 aqualite 4 barbite 6 actinio 11 heisenbergium 15 bayernium 16 biochromium -> 1 herthaton
+3 felucianite 2 iodo 3 bespinium 14 cryostone 6 genothon 6 cesio 13 barbtonium -> 1 neimoidianite
+8 bocajuniun 10 astronium 10 blueson 4 cylonium 20 calcio 17 ajaxite 2 aethertium 9 cyclonite -> 1 darksidium
+14 bocajuniun 1 bario 8 coruscantite 10 actinio 12 barbtonium 3 cosmodium -> 1 daenerysium
+2 arsenalium 15 nautolanon 1 juventon 13 lyonon 6 fireflyon 16 criptonio 14 rodio 9 hafnio 12 genothon 1 soloite 3 jacktorium 3 cryogenium 3 galio 14 skywalkite -> 1 solvigenium
+18 geocarbonium 6 forceston 17 bario 5 doctorium 19 hafnio 2 biovortex 20 gamorreanum 17 argonio 14 hamburgerium 12 gravitonite 8 gadolinio 17 buffytonium -> 1 hobbitium
+5 mandalorite 7 gryffindorium 13 cylonium 20 hobbitonite 7 berilio 12 liverpudlium 1 antimonio 1 arcanite 7 milanium 1 cosmodium 18 katnissium -> 1 nancyon
+11 partizanum 8 spectroblast 18 holmio 13 tardision 16 platina 2 stannisium 15 aquatronium 13 lehavreon 17 biochromium 6 picardium -> 1 wookiegon
+20 mandalorite 15 mandalorinon 1 milanion 9 coruscantite 8 cyclotronium 7 laziopton 20 bioresin 6 barcelonium -> 1 nautolanon
+18 aqualite 4 infinicon 2 endorianite 15 mandalorium 4 gamorreanium 7 cloro 15 chronotanium 2 holmio 6 ewokium 11 cosmodium 11 hamburgerium 6 infinisphere -> 1 napolonium
+7 tottenhamite 15 niobio 13 nabooianon 8 mulderium 10 atleticon 18 litio -> 1 uranio
+1 cobre 11 aromatium 3 chissitonium 5 breakingium 14 aaylasecurium 16 adamaite 5 chewbacconium -> 1 cryogenium
+1 bismuto 1 kashyykium 11 chissitonium 5 futuritron 12 germanio 17 cromo 10 cobalto 8 grootium 4 hodorium 15 kaminoon 14 katnissium 6 chewbacconium 18 cryogenium 12 galio -> 1 moncalamarion
+20 chissitonium 13 cromo 19 dumbledorium 11 bolognium 11 barbtonium 1 angelite -> 1 exotrilium
+3 flandergon 15 hyperthermium 9 germanio 6 criptonio 4 endorianite 17 aaylasecuron 12 polymorfium 2 portothon 15 escandio 13 quantumflare 6 neonio 3 holmio 13 gadolinio -> 1 radio
+20 photogelium 9 hothium 9 sevillon 19 iterbio 13 huttalonium 2 galatasarayon 1 geonosianon 3 spectroflame 13 strasbourgium 12 dortmundium 20 rickonium -> 1 targaryenon
+7 nautolanon 10 geonosianium 16 vampiron 9 neotrium 9 huttalonium 14 huttite 6 celticron 18 toulon 19 atomorphium 6 plasmotrite 15 sodio -> 1 zaragozon
+4 anderlechton 1 gamorreanium 15 berilio 19 chronovium 6 jarjarium 12 celticron 20 bolognium 2 bromo 5 cybertronium 16 aberdeenon -> 1 mandalorite
+2 starksteron 7 atomixite 11 quagganite 19 magnifirium 8 plasmalite 7 jediium 6 hobbitium 3 reddevilium 18 estroncio 17 bothanion 10 atomogen 17 aethertium 10 cybertronium 10 chewbacconium 5 ionithium -> 1 synthetron
+1 tantalio 20 lightsaberon 10 fringon 17 rorschachon 14 olimpijaon 19 michonneon 13 nanteson 18 dortmundium 11 fluxorium 20 superlumineon 8 gamorreanum 17 boro 7 sodio 3 cynosilicate -> 1 tinkertonium
+9 renio 15 besiktasium 20 aaylasecurium 14 antimonio 19 arcanite 6 indio 4 neogalvanium 12 lehavreon 16 gravitonite 5 interon -> 1 rubinkazanon
+15 arsenalium 13 aaylasecurium 1 criptonio 20 chissite 18 darksidium 2 chumbo -> 1 enxofre
+8 gollumite 17 renio 15 vanadio 19 strasbourgium 16 leverkusenium 8 protactinio -> 1 yuzzumium
+5 cerio 16 gryffindorium 11 nautolanon 4 atomixite 17 nabooon 4 phaseron 15 marseilleon 20 bothanite -> 1 promecio
+19 lumitron 10 cryoferrium 13 barcafonium 15 aaylasecurium 17 partizanum 12 germanio 6 oxigenio 13 plasmalite 12 bario 13 fenerbahcite 13 muggletonium 17 arcanite 9 felucianon -> 1 plutonio
+16 kaminoium 8 juventon 14 geoquarkium 11 deathstarium 3 cryoferrium 6 moncalamariite 12 germanio 5 jediium 15 anderlechton 18 magnesio 15 eintrachtite 5 bothanion 3 bioquarkium 13 benficium 9 angelite -> 1 nabooianon
+19 lyonon 19 atomixite 2 rubinkazanon 4 valladolidite 7 besiktasium 11 carbono 18 criptonio 15 rorschachon 5 bazingonium 7 nanteson 16 hobbiteon 17 disprosio 14 milanium 5 ewokium -> 1 zombiegonium
+14 rikkonium 14 ferro 13 schalkenium 10 energonium 5 moncalamarite 16 redstarium 14 neotrium 8 manchesteron -> 1 sheldonite
+7 malcolmite 7 tottenhamite 12 mortygon 13 palpatinium 19 synthion 13 moncalamarite 6 magnesio 8 sulfurion 11 kaminoon 17 barbtonium 13 aberdeenon -> 1 vampiron
+2 arsenio 19 geonosianon 5 cesio 5 dumbledorium 3 chissite 8 guingampium -> 1 helio
+12 napolipton 2 gollumon 11 mustafarite 20 luminesium 18 barbite 9 bayernite 3 nebulon 15 helio 12 lantanio 14 plasmotrite 12 bothanite 13 quantumfire 8 moncalitonium -> 1 quantumflare
+17 palpatinium 17 cadmio 15 roditonium 1 potassio 20 berilio 5 bazingonium 10 mulderium 19 jarjarium 12 realite 4 radonio 12 ahsokium 13 aquatronium 20 protactinio 7 gadolinio 8 sodio -> 1 trandoshanum
+4 lumitron 16 fiorentinon 19 arsenio 3 dundalkon 9 photogelium 19 germanio 1 moncalamarite 6 helio 15 sochauron 3 gamorreanum -> 1 strasbourgium
+6 astronium 19 besiktasium 8 breakingium 14 blueson 16 astroglide 2 biomagnium 4 adamaite 20 berilio 6 barysilicate 14 arcanite 16 atleticon 10 bioresin 4 bayernium 14 aquatronium 2 bothanite -> 1 cesio
+11 kaminoium 11 arsenio 2 cryosynthium 4 infinicon 18 geocarbonium 3 bespinium 20 cryostone 4 hafnio 9 hodorium 4 felucianon 18 ewokium 3 aquatronium 18 benficium 10 lannisterium -> 1 lantanio
+15 roditonium 3 torinum 19 lutecio 5 doctorium 2 spectroflame 20 huttite 6 baselium 8 chronovium 11 quantumflare 17 gunganon 6 cyclotronium 12 macewinduon 16 chissite 12 droidium 10 jawaton -> 1 troyesiton
+5 arsenalium 18 fireflyon 20 hothium 19 biomagnium 18 juventonium 4 ewokite 11 telurio 15 legiaon 10 protactinio 14 infinisphere -> 1 vanadio
+14 prata 18 napolipton 16 bocajuniun 3 sithite 6 metallorium 13 infinicon 19 betison 17 portothon 17 berilio 5 neonio 19 jacktorium 8 benficium 15 moncalitonium 17 cynosilicate -> 1 tiefighterium
+3 cobre 7 skywalkerium 19 photogelium 13 europio 17 plasmalite 4 nitrogenio 16 quantumflux 2 spectroflame 2 nancyon 9 sampdorium 5 jayneston 8 radiogen 19 dumbledorium 19 macewinduon 5 benficium -> 1 tolkienium
+2 napolipton 7 fiorentinon 16 iridio 11 molibdenio 8 bespinium 6 eintrachtite 13 celticron 9 leverkusenium 20 legiaon 5 jacktorium 12 plasmotrite -> 1 romaon
+8 cerio 4 enxofre 6 aqualite 17 biomagnium 3 ahsokium 5 bayernium 1 chissite 20 aerozonium 19 chumbo 3 cyclonite -> 1 hodorium
+7 cerio 4 fiorentinon 10 bocajuniun 2 blueson 5 fluxogel 16 aaylasecuron 9 ewokite 15 chronotanium 10 asimovium 13 cosmodium -> 1 fluxorium
+15 rikkonian 15 lightsaberon 18 jediium 19 sheldonite 9 photovoltaon 7 quantumite -> 1 wolfsburgium
+4 herthaton 14 nautolanon 14 niobio 15 barcafonium 20 fluor 12 cylonium 17 fenerbahcite 10 laziopton 20 mulderon 14 riverplaton -> 1 talio
+10 aetheron 4 aaylasecuron 9 calcio 2 cobalto 11 coruscantite 6 bayernite 2 bothanion 1 atleticon 20 astato 12 bayernium 12 bromo 16 bioquarkium 3 aerozonium 9 benficium -> 1 cryotrite
+5 aromatium 5 fireflyon 18 goonerium 17 cobalto 17 olimpijaon 20 celticron 4 cosmodium 16 itrio -> 1 riverplaton
+7 cryoferrium 11 astroglide 10 energonium 3 aaylasecuron 7 cobalto 18 bayernite 12 chronotanium 1 cesio 17 cyclotronium 1 argonio 18 aquatronium 19 atomorphium 19 daenerysium 18 cryogenium 3 aberdeenon -> 1 felucianite
+5 herthaton 4 chissitonium 8 breakingium 6 neogelium 4 biomagnium 12 cryostone 5 millenniumium 6 mercurio 12 neonio 9 bolognium 17 cosmodium 13 itrio 4 lehavreon 19 aerozonium 2 manchesterite -> 1 paladio
+19 gollumite 10 deathstarium 14 palpatinium 7 germanio 11 gamorreanium 17 cromo 7 astato 3 dobbygon 6 marseilleon 6 bothanite 6 angelite -> 1 phaselium
+3 gollumon 16 aaylasecurium 3 carbono 7 betison 19 goonerium 17 astroglide 17 doctorium 12 eopieon 14 gunganon 19 dumbledorium 11 fluxorium 8 biovortex 2 astato 2 darksidium -> 1 hafnio
+7 enxofre 13 cryoferrium 15 cthulhuon 7 kashyykium 18 mercurio 10 celticron 10 leverkusenium 14 legiaon 10 astato 12 lannisterium 18 infinisphere 18 auxerreton -> 1 mustafarite
+2 panathinaikosium 6 geomorphium 16 hyperthermium 5 dathomiron 16 infinicon 10 hobbitium 9 radonio 6 leverkusenium 9 biovortex 6 laziopton 4 xenomorphium -> 1 zinco
+1 arsenalium 4 astroglide 6 aetheron 13 fringon 16 barbite 11 fenerbahcite 17 astato 16 atomorphium 8 droidium -> 1 gandalfite
+15 fiorentinon 15 cromo 11 fringon 5 echanium 19 doctorium 12 eopieon 3 barysilicate 8 cloro 14 francio -> 1 galatasarayon
+4 cobre 12 chissium 13 copenhagon 7 criptonio 13 aurorium 19 adamaite 1 chronovium 4 celticron 10 biovortex 6 chissite 8 aerozonium -> 1 cryoferrium
+7 erbio 15 arsenio 20 blueson 19 europio 15 fluxogel 1 baselium 13 holmio 16 bolognium 7 hodorium 17 barbtonium 16 ewokium 14 argonio 11 aquatronium 11 atomorphium 20 cryogenium -> 1 hyperthermium
+9 nautolanon 8 cesio 19 bioresin 17 lorienton 17 jacktorium 13 moncalitonium 13 lensite -> 1 petrocarbon
+7 rikkonian 8 rostovon 8 chissium 15 bismuto 4 dundalkon 14 nitrogenio 4 exotrilium 6 calcio 7 cloro 11 targaryenon 5 cryophasium 4 lantanio 12 macewinduon 8 xenomatter 16 chelsegon -> 1 xenomorphium
+19 arsenalium 19 phasergen 20 enxofre 18 hermioneon 10 europio 13 aqualite 16 bario 15 phaseron 7 heisenbergium 2 barcelonium 10 katnissium 10 lannisterium 20 biogalvanite 1 chumbo 18 interon -> 1 villarealon
+5 hajdukon 15 cobre 19 bismuto 7 deathstarium 2 metallorium 11 barcafonium 17 blueson 10 oxigenio 15 geocarbonium 10 jediium 6 astato -> 1 palpatinium
+5 arsenalium 13 deathstarium 4 besiktasium 7 dathomiron 9 biomagnium 9 biogalvanite -> 1 droidium
+20 herthaton 11 bismuto 11 huttite 14 estroncio 6 biovortex 11 neogalvanium 1 auxerreton -> 1 rositronium
+10 bocajuniun 19 biomagnium 12 aaylasecuron 5 adamaite 19 bespinium 15 bazingonium 6 barbtonium 10 bayernium 11 barcelonium 20 benficium 4 aluminio 20 auxerreton -> 1 chissium
+17 mandalorite 2 arsenalium 10 nautolanon 20 barcafonium 8 astroglide 6 galatasarayon 10 michonneon 2 cyclotronium 11 manchesteron -> 1 toulon
+14 partizanum 1 astroglide 10 huttite 12 hodorium 2 stannisium 11 soloite 17 itrio 1 protactinio 20 moncalitonium 5 picardium 15 auxerreton -> 1 vortexium
+2 malcolmite 9 mandalorite 20 gryffindorium 20 chissium 12 cryosynthium 8 goonerium 6 jediium 4 iterbio 9 barysilicate 7 cyclotronium 3 felucianon 2 argonio 9 chissite 18 darksidium 17 buffytonium -> 1 neogelium
+13 rostovon 7 plasmalite 11 estanho 18 kashyyykon 1 corinthiansium 12 cryogenium 11 napolonium 9 aluminio -> 1 spartakron
+7 aromatium 7 chissium 14 fireflyon 11 deathstarium 11 criptonio 1 endorianite 3 berilio 20 arcanite 12 dumbledorium 17 droidium 19 cryogenium 5 gadolinio -> 1 geomorphium
+14 enxofre 20 barcafonium 12 aurorium 7 endorianite 17 cobalto 8 cyclotronium 14 astato 12 bromo 1 atomogen 10 chewbacconium -> 1 fluor
+1 cryotrite 15 geomorphium 12 iridio 2 hothium 5 adamaite 6 berilio 8 magnesio 3 bazingonium 9 huttite 4 ewokite 16 actinio 13 bothanion 13 jacktorium 17 hamburgerium 6 ionithium -> 1 mariboron
+3 arsenalium 15 carbono 20 fluor 3 fenerbahcite 20 doctorium 12 biovortex 17 ajaxite 6 angelite 10 cyclonite -> 1 forceston
+1 blueson 14 anderlechton 12 aetheron 8 chronovium 5 celticron 3 bromo 1 auxerreton -> 1 cryosynthium
+17 atomixite 4 carbono 14 felucianite 19 hothium 7 bazingonium 8 arcanite 12 gravitonite -> 1 magnifirium
+9 gandalfite 9 metallorium 14 aetheron 11 exotrilium 9 fenerbahcite 13 phaseron 1 indio 20 torio 18 bothanion 4 biovortex -> 1 utapauium
+4 flandergon 15 infinicon 3 fenerbahcite 20 huttalonium 4 antimonio 8 actinio 16 fluxorium 3 daeneryston 13 kashyyykon 13 cryogenium -> 1 katnissium
+12 hyperthermium 12 astroglide 11 cloro 14 khanium 13 antimonio 3 biogalvanite 5 darksidium -> 1 lensite
+12 cerio 3 hothium 13 anderlechton 16 lutecio 5 geonosianon 11 gemstonium -> 1 sulfurion
+13 germanio 1 aqualite 2 astroglide 17 bespinium 14 eopieon 1 eintrachtite 20 dumbledorium 17 bioresin 14 bayernium 8 cosmodium 12 dalektonium 9 biogalvanite -> 1 molibdenio
+8 herthaton 2 arsenalium 8 pyroflorum 6 gandalfite 5 lyonon 2 felucianite 9 cromo 20 geonosianium 13 gunganon 1 legiaon 6 flamengon 19 laziopton 1 quantumite -> 1 radigenium
+6 geonosianium 7 barbite 8 doctorium 1 cobalto 6 argonio 9 gadolinio -> 1 gravitonite
+20 geomorphium 8 monaconium 19 futuritron 15 huttalonium 3 millenniumium 3 antimonio 20 chewbacconium -> 1 neonio
+9 bismuto 14 chronovium 15 antimonio 16 celticron 7 asimovium 13 bromo 11 bioquarkium 3 aethertium -> 1 dinamozagrebon
+8 fireflyon 19 infinicon 13 astroglide 9 berilio 7 eopieon 17 francio 19 hobbiteon 3 bayernium 17 argonio 12 dalektonium -> 1 lightsaberon
+3 cerio 11 mandalorite 17 fiorentinon 17 chissitonium 18 dundalkon 10 nautolanium 14 berilio 11 galatasarayon 3 genothon 2 helio 12 flamengon 3 fluxorium 18 laziopton 16 dobbygon 6 chissite -> 1 neoplasticite
+17 hajdukon 17 rikkonium 19 erbio 6 magnifirium 1 doctorium 10 rutenio 1 strasbourgium 10 radiogen 1 tuskeniton 1 r2d2tonium 12 barbtonium 16 corinthiansium 17 lehavreon 10 moncalitonium 17 xphileon -> 1 zirconio
+18 sevillon 8 portothon 6 reddevilium 18 baselium 11 chronovium 4 hafnio 16 jayneston 1 heisenbergium 15 aluminio -> 1 simpsonsium
+7 rikkonian 6 renio 18 atomixite 6 valenciaon 17 spideygon 5 nautolanium 7 betison 20 quantumflux 3 threepionium 19 sheldonite 8 disprosio 4 romaon 19 chissite 18 boro -> 1 velmadite
+12 arsenalium 5 cryosynthium 16 futuritron 8 calcio 5 antimonio 11 mercurio 7 dortmundium 8 interon -> 1 michonneon
+11 chissium 14 cylonium 12 aetheron 10 echanium 11 hafnio 8 nebulon 4 antimonio 5 joffreygon 6 jacktorium 7 itrio 15 lannisterium -> 1 rangersite
+19 barcafonium 9 astroglide 14 anderlechton 14 bazingonium 9 atleticon 17 bolognium 16 atomogen 18 atomorphium 11 benficium 7 bothanite 5 borgite -> 1 cadmio
+16 bismuto 5 cryoferrium 1 cryosynthium 20 betison 6 atleticon 12 argonio 19 aquatronium 19 chissite 16 biochromium 8 chewbacconium 15 aberdeenon 16 aluminio -> 1 dathomiron
+1 bismuto 16 aaylasecurium 1 futuritron 20 hobbitonite 17 fringon 12 hobbitium 13 cloro 6 hafnio 19 hobbiteon 9 atleticon 6 cybertronium 8 auxerreton -> 1 hologronium
+4 fiorentinon 15 kashyykium 9 copenhagon 20 lightsaberon 3 mandalorium 18 doctorium 20 coruscantite 11 cloro 6 holmio 7 bioresin 19 lantanio 16 cryogenium 16 guingampium -> 1 napolipton
+7 cobre 10 futuritron 15 cadmio 9 forceston 5 energonium 9 geonosianon 2 dortmundium 3 bothanion 6 grootium 19 bayernium 14 biochromium 1 gravitonite -> 1 hobbitonite
+4 atomixite 11 cylonium 10 chronovium 4 bothanion 3 bioresin 11 aethertium -> 1 daeneryston
+6 niobio 13 dathomiron 14 pyroplasmium 4 holmio 5 cryophasium 8 dobbygon 10 itrio 17 neotriton -> 1 spocktonium
+18 breakingium 20 germanio 1 nautolanium 1 celticron 3 radonio 17 benficium 16 neotriton -> 1 realite
+13 deathstarium 5 besiktasium 19 aaylasecurium 17 forceston 7 fringon 20 dortmundium 9 benficium -> 1 indio
+10 barbite 8 berilio 20 bespinium 2 celticron 18 chissite 7 aerozonium -> 1 criptonio
+2 mandalorite 8 bocajuniun 13 rosenborgite 10 huttite 20 radonio 13 scoobyite 12 gravitonite -> 1 smeagolon
+11 cryotrite 8 alderaanite 14 baselium 19 cryogenium 5 chelsegon -> 1 hamburgerium
+7 arsenalium 9 erbio 18 atomixite 7 barcafonium 11 copenhagon 2 cromo 19 aetheron 18 barysilicate 17 asimovium 9 dobbygon 3 daenerysium 6 angelite 20 chumbo -> 1 ewokite
+18 chissium 15 besiktasium 12 criptonio 6 actinio 3 arcanite 11 asimovium 6 barbtonium 16 bayernium 5 argonio 15 benficium 9 angelite -> 1 cthulhuon
+6 arsenio 7 cylonium 2 fringon 16 cryostone 3 cobalto 11 geonosianon 20 ewokite 20 chronotanium 8 dortmundium 20 aerozonium -> 1 goonerium
+1 mandalorite 20 lyonon 5 fireflyon 17 besiktasium 1 hyperthermium 3 moncalamariite 1 forceston 9 echanium 4 juventonium 19 michonneon 16 graviphoton 20 itrio 4 aethertium 1 riverplaton -> 1 selenio
+15 dundalkon 20 phaselium 5 lutecio 19 helio 17 radonio 9 manchesteron 2 interon -> 1 verdanium
+6 aaylasecurium 7 cylonium 17 criptonio 7 biomagnium 4 geonosianium 14 liverpudlium 16 bazingonium 6 bothanite 12 darksidium -> 1 mortygon
+8 chissium 10 astronium 10 cadmio 14 aaylasecuron 8 adamaite 6 bayernite 1 asimovium 3 aquatronium 12 aethertium 16 chewbacconium -> 1 chumbo
+1 hajdukon 3 mandalorite 20 bocajuniun 4 partizanum 3 goonerium 6 hobbitium 13 liverpudlium 20 huttite 19 fosforo 15 gamorreanum -> 1 pyronium
+10 jediium 5 barysilicate 4 arcanite 5 kaminoon 8 chissite 1 atomorphium 13 benficium -> 1 legiaon
+6 cobre 9 mandalorinon 17 tauntanite 10 nitrogenio 12 energonium 5 utapauon 6 huttite 15 celticron 15 helio 9 praseodimio 2 lannisterium 5 pottgon 12 aberdeenon -> 1 vulptexium
+17 aromatium 4 bayernite 7 actinio 10 astato 8 bioresin 10 bayernium 19 argonio 20 atomogen 7 boro 18 bioquarkium 17 aerozonium 13 ajaxite 14 aethertium 15 biogalvanite 11 aberdeenon -> 1 copenhagon
+1 flandergon 9 monaconium 19 barcafonium 18 carbono 3 photogelium 14 germanio 11 neoplasticite 5 potassio 10 portothon 7 bazingonium 16 osmio 18 r2d2tonium 10 jacktorium 10 barcelonium -> 1 radiotrite
+16 herthaton 14 chissium 14 juventon 2 dundalkon 18 blueson 2 barbite 18 bazingonium 7 actinio 7 fluxorium 2 joffreygon 6 litio -> 1 lyonon
+16 geoquarkium 1 doctorium 11 cryostone 14 arcanite 9 astato 20 biochromium 17 aluminio -> 1 gollumite
+15 geomorphium 1 gollumon 6 mariboron 2 anderlechton 18 estanho 6 hafnio 19 indio 17 atomogen 16 aethertium 12 manchesterite 4 buffytonium -> 1 millenniumium
+19 mandalorite 5 rostovon 6 sithite 1 besiktasium 3 selenio 17 olimpijaon 19 hafnio 14 estroncio 3 indio 20 r2d2tonium 12 bioresin 3 neimoidianite 3 benficium 19 biogalvanite -> 1 tyrionium
+9 cadmio 7 milanion 2 geocarbonium 20 muggletonium 8 iterbio 17 doctorium 13 leverkusenium 8 fosforo 6 photovoltaon 14 barcelonium 18 atomorphium 11 bothanite 15 angelite -> 1 sampdorium
+20 europio 17 astroglide 7 cromo 14 adamaite 10 hologronium 15 baselium 14 antimonio 2 lantanio 20 gemstonium 12 chelsegon -> 1 lorienton
+12 cerio 19 aromatium 18 aaylasecuron 7 doctorium 17 coruscantite 18 baselium 4 cloro 12 estroncio 14 biovortex 14 bioquarkium 17 aerozonium 7 cybertronium -> 1 europio
+10 geomorphium 17 phasergen 20 hyperthermium 7 geonosianium 2 psgon 15 neotrium 19 fringon 5 polymorfium 2 portothon 19 bayernite 7 ahsokium 18 argonio 19 kashyyykon 9 chelsegon -> 1 pyroplasma
+19 mandalorite 4 geonosianium 13 aetheron 20 estroncio 20 hodorium 16 rickonium 18 bioresin 4 gravitonite -> 1 sevillon
+4 eopieon 8 ewokite 13 asimovium 10 bayernium 15 jacktorium 3 darksidium -> 1 milanion
+4 moncalamarion 20 criptonio 9 endorianite 10 hobbitonite 14 eintrachtite 7 estroncio 2 dumbledorium 12 dinamozagrebon 19 fluxorium 9 barbtonium 3 aethertium 10 protactinio 5 gadolinio -> 1 roditonium
+19 gollumite 10 gryffindorium 15 napolipton 14 bismuto 16 fireflyon 15 monaconium 3 nitrogenio 11 osmio 3 gadolinio -> 1 rodio
+12 arsenalium 10 germanio 5 criptonio 9 astroglide 13 endorianite 11 energonium 2 fenerbahcite 17 dumbledorium 12 grootium 17 daenerysium 11 chumbo 19 gravitonite 8 cynosilicate -> 1 hothite
+9 mandalorite 1 niquel 2 tulio 6 geonosianium 7 muggletonium 2 tiberium 14 antimonio 15 jayneston 4 mulderon 20 manchesteron 9 infinisphere -> 1 winchesterium
+15 hermioneon 6 endorianite 13 estanho 19 liverpudlium 18 flamengon 7 neogalvanium 15 chissite 1 plasmotrite 16 neotriton -> 1 quagganite
+14 cobre 1 tecnecio 20 quagganite 15 copenhagon 12 geocarbonium 18 plasmocrystal 19 magnesio 17 juventonium 19 moncalitonium -> 1 winduon
+20 tecnecio 17 aaylasecurium 7 samario 9 geonosianon 18 tiberium 19 velmadite 14 legiaon 15 plasmogen 2 napolonium -> 1 zoidbergium
+17 alderaanite 9 besiktasium 20 hobbitonite 4 cloro 11 angelite -> 1 iterbio
+3 gryffindorium 9 ferro 4 nautolanium 11 dumbledorium 6 plasmogen 11 biochromium 5 lannisterium 12 manchesterite -> 1 praseodimio
+12 valladolidite 17 monaconium 12 spideygon 9 nautolanium 1 selenio 7 jediium 19 cromo 11 neotrium 4 villarealon 11 olimpijaon 17 bioresin 11 gemstonium -> 1 winchesteron
+16 gollumite 2 arsenalium 19 cryotrite 2 geomorphium 14 deathstarium 13 hothium 16 mandalorium 20 coruscantite 7 metzite 4 lantanio 12 lensite 5 gravitonite -> 1 mulderon
+8 fireflyon 15 barcafonium 2 fluor 18 oxigenio 17 lutecio 3 berilio 15 petrocarbon 16 huttite 9 fosforo 11 atomogen 13 ajaxite 11 aethertium 8 cynosilicate -> 1 solvarium
+17 astronium 14 cryosynthium 9 fluxogel 12 hobbitonite 17 bothanion 5 kaminoon 20 dalektonium 19 lannisterium 20 hothite -> 1 nautolanium
+4 chissitonium 2 anderlechton 10 cloro 16 actinio 11 celticron 7 dortmundium 6 cryophasium 3 atomogen 10 biogalvanite 15 chewbacconium 19 cryogenium 4 darksidium 18 aluminio -> 1 dumbledorium
+13 arsenalium 5 bocajuniun 11 aaylasecuron 20 celticron 5 asimovium 16 argonio 10 bioquarkium 11 bothanite 5 ajaxite 6 aethertium 5 chewbacconium 7 buffytonium 9 borgite -> 1 cobalto
+10 hajdukon 5 gollumon 11 jabbaton 10 geocarbonium 19 aurorium 4 estanho 11 coruscantite 1 barysilicate 14 cloro 2 chronotanium 17 dortmundium 5 bothanion 19 ewokium 10 bioquarkium 7 biochromium -> 1 jawaton
+1 fiorentinon 13 infinicon 19 hobbitonite 3 doctorium 6 huttite 19 leverkusenium 16 daeneryston 9 cosmodium 14 macewinduon -> 1 mercurio
+1 panathinaikosium 4 rostovon 1 juventon 9 luminesium 11 synthion 12 neotrium 11 liverpudlium 3 tiberium 10 torio 14 stannisium 14 barcelonium 12 uranio -> 1 wattoium
+13 mandalorite 6 tyrionton 13 fireflyon 1 terbio 4 hobbitonite 5 estanho 12 hobbitium 12 echanium 18 galatasarayon 12 spectroflame 3 genothon 19 neogalvanium 9 tyrionite 3 riverplaton -> 1 womparite
+15 cobre 20 astronium 15 barcafonium 10 aqualite 2 criptonio 17 barysilicate 19 cloro 8 disprosio 16 barbtonium 2 aerozonium 9 borgite -> 1 dobbygon
+8 niobio 16 jabbaton 3 infinicon 8 ewokite 12 khanium 14 leverkusenium 1 bothanite 19 ajaxite 13 biogalvanite -> 1 plasmocrystal
+15 flandergon 4 geomorphium 17 psvon 19 magnifirium 10 fluor 10 bazingonium 7 kylorenium 8 chelsegon -> 1 rikkonium
+8 cobre 12 deathstarium 18 aaylasecurium 11 dathomiron 14 astroglide 17 daeneryston 20 aquatronium -> 1 echanium
+9 arsenio 18 fluxogel 2 estanho 13 estroncio 9 jacktorium 19 barcelonium 1 chumbo 9 aluminio 5 interon -> 1 manganes
+14 bocajuniun 10 cryoferrium 20 quantumflux 10 iodo 12 cryostone 6 metzite 8 actinio 5 chronotanium 19 lensite 1 galio 13 borgite 8 jawaton -> 1 scullygonium
+11 geomorphium 20 phasergen 15 nautolanon 13 fireflyon 12 cryosynthium 20 carbono 3 milanion 4 olympiakiton 16 atleticon 7 neimoidianite 5 buffytonium 18 auxerreton -> 1 photogelium
+19 breakingium 19 sublimetron 8 olimpijaon 12 rutenio 3 bothanion 16 tatooinium 1 lannisterium 10 xphileon -> 1 xylogenium
+8 malcolmite 4 geocarbonium 8 liverpudlium 2 hologronium 1 atomogen 1 hamburgerium 10 marseilleon 9 lensite -> 1 spectranium
+14 cerio 16 jabbaton 13 hothium 4 aqualite 7 geonosianon 7 angelite -> 1 psgon
+11 arsenalium 12 carbono 11 cromo 11 estanho 16 bayernite 19 bothanion 11 felucianon 6 chissite 3 biogalvanite 17 chewbacconium 20 buffytonium 2 cynosilicate -> 1 galio
+10 saintetiennium 16 malcolmite 6 arsenalium 1 cryotrite 2 rikkonian 10 rostovon 7 chissium 8 tottenhamite 1 juventon 10 iodo 11 atomogen 10 tatooinium 13 daenerysium 3 moncalitonium -> 1 tuskenite
+2 flandergon 12 gandalfite 12 infinicon 8 aetheron 2 eopieon 17 bazingonium 20 jarjarium 5 asimovium 9 disprosio 16 graviphoton 12 chissite 13 biochromium 2 darksidium -> 1 leverkusenium
+15 cerio 20 betison 4 asimovium 17 biovortex 4 bioresin 17 bioquarkium 14 ajaxite 13 chewbacconium 10 cyclonite -> 1 cylonium
+17 fireflyon 2 mandalorinon 14 hothium 3 oxigenio 1 portothon 20 bazingonium 13 huttite 2 asimovium 11 graviphoton -> 1 r2d2tonium
+8 cerio 3 psvon 6 radiotrite 3 nabooianon 11 partizanum 10 fluxogel 12 cromo 3 moncalamarite 4 neotrium 7 bario 12 quantumflux 19 estroncio 17 milanium 19 plasmotrite 11 bothanite -> 1 schalkenium
+13 arsenalium 13 hermioneon 8 magnifirium 4 aqualite 6 astroglide 2 moncalamarite 14 francio 1 kashyyykon 12 marseilleon -> 1 osmio
+13 bismuto 8 adamaite 15 calcio 10 berilio 2 chronovium 19 actinio 1 celticron 8 aerozonium 12 benficium -> 1 cosmodium
+6 deathstarium 16 breakingium 17 dathomiron 15 dumbledorium 10 chissite 11 barcelonium 6 corinthiansium 19 biogalvanite 16 cyclonite -> 1 escandio
+19 bismuto 7 hyperthermium 20 fluor 19 geonosianium 19 bazingonium 7 hodorium 3 droidium -> 1 iridio
+4 aromatium 5 alderaanite 4 geoquarkium 6 stormtroopon 11 astronium 17 hothium 4 nabooianon 15 rebelion 7 iterbio 17 mulderium 8 dortmundium 5 tardision 5 atomogen 13 biogalvanite -> 1 titanio
+20 aromatium 17 besiktasium 14 dathomiron 7 aaylasecuron 3 cryostone 9 arcanite -> 1 echanius
+18 rikkonium 17 cerio 5 iridio 11 niobio 11 jabbaton 17 mustafarite 18 oxigenio 17 plasmocrystal 3 polymorfium 7 calcio 14 echanius 7 metzite 7 legiaon 9 rangersite 1 phototritium -> 1 rutenio
+18 aromatium 4 gandalfite 3 madridite 17 lutecio 18 doctorium 13 grootium 5 bolognium 6 corinthiansium -> 1 nebulon
+4 geomorphium 5 deathstarium 14 jabbaton 6 coruscantite 17 celticron 19 daeneryston 14 guingampium 6 aberdeenon -> 1 magnesio
+10 samario 13 neotrium 15 aaylasecuron 11 superlumineon 1 dalektonium 2 lehavreon 18 smeagolon 15 darksidium -> 1 tardision
+8 besiktasium 5 fluor 4 aaylasecuron 7 barbite 9 huttalonium 1 bayernite 20 cosmodium 1 chewbacconium 19 gravitrin 9 gadolinio 11 guingampium -> 1 jacktorium
+2 troyesiton 10 selenio 17 walterwhiteon 8 psgon 19 tiberium 4 wattoon 2 neonio 1 milanium 13 verdanium 9 pottersium -> 1 xenomatter
+19 cryoferrium 11 carbono 1 aqualite 14 criptonio 1 betison 13 adamaite 1 cobalto 16 ahsokium 3 atleticon 1 ajaxite -> 1 cyclotronium
+11 sheldonon 1 cerio 10 europio 17 tauntanite 5 gamorreanium 14 energonium 16 sevillon 4 rubidio 12 rickonium 3 tatooinium -> 1 threepionium
+2 arsenio 2 luminesium 1 jediium 11 antimonio 18 ahsokium 1 felucianon 4 katnissium -> 1 milanium
+11 aaylasecurium 5 felucianite 5 adamaite 1 helio 17 disprosio 19 laziopton 19 aquatronium 17 aethertium -> 1 manchesteron
+13 gandalfite 12 promecio 3 partizanum 5 aurorium 14 geonosianium 16 exotrilium 13 redstarium 8 adamaite 15 shakhtarton 14 r2d2tonium 13 macewinduon 9 darksidium 10 jawaton 8 skywalkite -> 1 sodio
+9 gollumite 13 metallorium 6 barcafonium 11 carbono 11 eintrachtite 18 kylorenium 14 jarjarium 11 bolognium 8 gamorreanum 5 bothanite 12 borgite -> 1 metzite
+12 hajdukon 5 gollumite 11 cthulhuon 6 moncalamarion 11 adamaite 18 francio 13 felucianon 2 bayernium 13 marseilleon 3 chelsegon 20 cynosilicate 9 cyclonite -> 1 neodimio
+16 baselium 18 asimovium 7 barbtonium 6 chissite 3 barcelonium 3 aethertium -> 1 coruscantite
+2 napolipton 19 niquel 6 nabooon 12 hobbitonite 4 fringon 20 cloro 12 indio 17 gunganon 1 ewokium 6 barcelonium 7 ajaxite -> 1 phasergen
+19 cerio 15 cryoferrium 14 arsenio 16 cobalto 11 antimonio 6 ahsokium 6 astato 10 bromo 1 argonio 17 atomorphium 17 chewbacconium -> 1 dalektonium
+2 erbio 16 alderaanite 5 blueson 20 carbono 5 geocarbonium 12 criptonio 8 aaylasecuron 16 cesio 15 bothanion 13 bayernium 12 chewbacconium 10 gadolinio -> 1 huttite
+19 bocajuniun 13 deathstarium 8 ferro 14 hothium 8 geocarbonium 12 trandoshanite 9 utapauon 12 bazingonium 19 francio 17 jarjarium 9 legiaon 18 holmio 19 gadolinio 15 xphileon -> 1 zenitron
+7 enxofre 1 fiorentinon 5 gollumon 7 carbono 14 astroglide 12 adamaite 13 echanius 12 chronotanium 15 atleticon 13 dobbygon 4 gravitonite 12 gadolinio -> 1 gryffindorium
+9 arsenalium 9 erbio 16 geonosianium 3 exotrilium 4 galatasarayon 7 huttite 16 mulderon 15 daenerysium 13 cynosilicate -> 1 radonio
+20 lightsaberon 10 cadmio 20 geonosianon 18 antimonio 8 estroncio 4 shakhtarton -> 1 starkium
+16 cryotrite 8 quigonitron 7 metallorium 18 niobio 7 hyperthermium 7 moncalamariite 19 heisenbergium 8 leverkusenium 7 dinamozagrebon 11 disprosio 7 grootium 6 joffreygon 13 cosmodium 9 daenerysium -> 1 silicio
+9 geoquarkium 2 iridio 6 moncalamarion 10 germanio 10 infinicon 3 cobalto 19 galatasarayon 5 baselium 16 dobbygon 7 boro 19 angelite -> 1 picardium
+10 paladio 2 barcafonium 6 antimonio 14 dumbledorium 19 gadolinio 19 buffytonium 4 chelsegon -> 1 synthion
+14 besiktasium 11 breakingium 9 dathomiron 5 hobbitonite 1 fringon 10 doctorium 5 cryostone 12 cloro 6 francio 18 celticron 6 dinamozagrebon 7 gemstonium 1 hamburgerium -> 1 juventonium
+9 malcolmite 20 paladio 15 neoplasticite 4 mandalorium 20 liverpudlium 7 infinisphere -> 1 polonio
+10 photogelium 6 jediium 10 plasmocrystal 19 itrio 4 chewbacconium 19 pottgon -> 1 twilekium
+1 gryffindorium 9 alderaanite 5 scullygonium 17 neotrium 7 estanho 16 berilio 16 huttite 5 itrio -> 1 sportingon
+17 kaminoium 16 bothanion 10 picardite 19 atleticon 20 laziopton 15 biochromium -> 1 polymorfium
+4 cerio 12 bismuto 13 dundalkon 2 eopieon 20 barysilicate 15 ewokite 5 asimovium 6 holmio 7 gamorreanum -> 1 joffreygon
+15 arsenalium 17 arsenio 1 cylonium 15 anderlechton 11 cyclotronium 5 bayernium 8 argonio 16 aquatronium 20 barcelonium 3 cryogenium 1 auxerreton -> 1 eintrachtite
+15 chissium 13 bocajuniun 6 cryoferrium 3 cryosynthium 16 besiktasium 3 biomagnium 12 bazingonium 17 celticron 17 chronotanium 1 barcelonium 6 bioquarkium 17 chumbo 6 aberdeenon 16 aluminio -> 1 cyclonite
+11 prata 19 promecio 13 blueson 11 metzite 2 disprosio 19 lantanio 5 dalektonium 4 silicio 2 borgite -> 1 voltagen
+18 besiktasium 10 aetheron 2 adamaite 19 cobalto 14 coruscantite 12 bothanion 10 bayernium 2 benficium 16 ajaxite 1 chewbacconium 9 cyclonite -> 1 cynosilicate
+18 metallorium 2 olimpijaon 16 holmio 12 superlumineon 5 r2d2tonium 6 gadolinio -> 1 tulio
+19 deathstarium 18 kashyykium 20 nabooon 12 geonosianon 18 lehavreon 8 benficium -> 1 nitrogenio
+10 breakingium 10 fluxogel 10 celticron 14 estroncio 7 atleticon 15 boro 15 bioquarkium 6 cryogenium 12 chelsegon -> 1 francio
+18 aetheron 3 doctorium 13 cloro 6 bothanion 6 osmio 19 dalektonium 4 benficium -> 1 platina
+6 cryotrite 18 palpatinium 10 synthion 13 moncalamarite 18 calcio 20 iodo 9 geonosianon 18 eopieon 4 millenniumium 2 shamrockrovium 9 olympiakiton 20 atomorphium 7 marseilleon -> 1 tauntanite
+11 kaminoium 19 ferro 18 cylonium 17 estanho 18 hafnio 1 chronotanium 2 atleticon 6 kaminoon 20 laziopton 11 bromo 20 droidium 11 biogalvanite 3 borgite 20 chelsegon 2 interon -> 1 lehavreon
+16 chissium 20 astronium 13 aqualite 10 iodo 14 huttalonium 4 cryostone 18 khanium 9 hamburgerium 19 darksidium -> 1 marseilleon
+2 deathstarium 13 cthulhuon 9 breakingium 1 astroglide 6 biomagnium 8 escandio 5 barbtonium 10 darksidium 8 aberdeenon -> 1 geoquarkium
+11 arsenalium 11 astronium 12 barcafonium 7 aetheron 7 adamaite 4 baselium 8 arcanite 5 cesio 7 asimovium 19 barbtonium 1 aquatronium 15 biochromium 3 aethertium 4 biogalvanite 12 auxerreton -> 1 chissite
+4 deathstarium 16 hermioneon 10 magnesio 9 cryostone 12 barysilicate 13 nebulon 19 strasbourgium 19 jayneston 18 indio 11 fluxorium 7 guingampium -> 1 sylvariogen
+10 chissitonium 4 barcafonium 7 aurorium 19 betison 12 barbite 18 chronotanium 6 barbtonium 7 angelite 19 aluminio 9 auxerreton -> 1 cromo
+17 besiktasium 7 cadmio 20 dortmundium 1 chissite 1 litio 3 manchesteron 15 ionithium -> 1 moncalamarite
+20 enxofre 4 radio 20 tauntanite 16 quantumflux 13 rositronium 12 nebulon 14 rutenio 12 strasbourgium 4 legiaon 17 rangersite 6 biochromium 14 napolonium 18 sodio 10 pyroplasma 3 jawaton -> 1 tyrionton
+14 rikkonium 4 dundalkon 15 astroglide 7 potassio 18 lutecio 1 reddevilium 8 rositronium 10 bazingonium 12 polonio 15 rubidio 11 platina 9 corinthiansium 2 napolonium -> 1 soloite
+20 flandergon 6 kashyykium 16 astronium 19 niquel 9 escandio 19 juventonium 20 eintrachtite 19 photovoltaon 4 atomogen 8 benficium -> 1 radiogen
+4 arsenio 16 mortygon 12 betison 12 anderlechton 17 nabooon 18 echanium 15 michonneon 16 hobbiteon 15 heisenbergium 3 praseodimio 20 bayernium 1 hothite -> 1 quantumfire
+18 cryotrite 5 enxofre 3 fiorentinon 11 deathstarium 20 dathomiron 16 betison 7 endorianite 9 gamorreanium 11 cromo 6 cryostone 7 bayernite 16 dumbledorium 7 bromo 1 hamburgerium 11 buffytonium -> 1 juventon
+11 herthaton 20 arsenio 17 jabbaton 9 bespinium 9 celticron 11 estroncio 15 bromo -> 1 malcolmite
+6 breakingium 19 skywalkerium 4 photogelium 11 stuttgarton 7 rodianon 1 chronotanium 4 flamengon 18 bolognium 6 chissite 10 hothite -> 1 torio
+18 cobre 10 blueson 6 dathomiron 12 biomagnium 6 cobalto 20 celticron 13 bayernium 16 daenerysium 7 angelite 7 cryogenium -> 1 dundalkon
+4 flandergon 10 cryotrite 1 dathomiron 17 aaylasecuron 4 cryostone 1 coruscantite 12 dortmundium 13 aquatronium 9 bioquarkium 17 angelite 14 biogalvanite -> 1 fringon
+5 gollumite 12 cthulhuon 8 copenhagon 2 cobalto 2 liverpudlium 1 khanium 17 estroncio 10 chissite 3 chewbacconium -> 1 mandalorium
+20 astronium 15 besiktasium 8 hologronium 6 chronovium 4 chronotanium 20 atleticon 14 dalektonium -> 1 itrio
+3 moncalamariite 2 synthetonium 9 walterwhiteon 6 potassio 7 portothon 19 atleticon 6 milanium 17 plasmogen 19 neimoidianite 15 kashyyykon 2 boro -> 1 xylocarbon
+13 spartakron 19 dathomiron 12 rebelion 5 spectroflame 5 rickonium 14 chumbo 8 galio -> 1 trandoshanite
+19 hajdukon 18 bocajuniun 19 fireflyon 11 geocarbonium 5 astroglide 20 endorianite 5 cromo 15 estanho 20 doctorium 1 baselium 20 bayernite 17 ewokium 15 hamburgerium 7 corinthiansium -> 1 huttalonium
+5 aromatium 15 besiktasium 8 bayernite 14 cryophasium 9 aerozonium 10 daenerysium 19 angelite 4 chewbacconium 18 auxerreton -> 1 endorianite
+11 sheldonon 1 juventon 4 cthulhuon 16 moncalamarion 5 infinicon 12 astroglide 6 coruscantite 4 sampdorium 4 dortmundium 10 ewokium 5 hamburgerium 14 chewbacconium -> 1 stuttgarton
+7 deathstarium 9 felucianite 10 hothium 2 biomagnium 15 bazingonium 5 gunganon 11 bothanion 19 asimovium 14 graviphoton 10 kaminoon 5 gemstonium 19 dalektonium 13 aethertium 6 biogalvanite 16 chewbacconium -> 1 neotriton
+4 cobre 1 alderaanite 19 breakingium 17 copenhagon 3 geocarbonium 16 bario 20 chronovium 19 gunganon 1 flamengon 18 grootium 11 bayernium 5 chissite 19 benficium 10 cryogenium -> 1 kaminoium
+2 barcafonium 4 aurorium 5 jediium 12 moncalamarite 18 plutonio 4 lantanio 5 kashyyykon 17 cryogenium 10 darksidium -> 1 rodianon
+6 photogelium 19 mustafarite 17 samario 8 tauntanite 7 twilekium 6 dumbledorium 3 plasmotrite 18 pottgon -> 1 xenonio
+8 herthaton 6 gollumite 4 flandergon 3 troyesiton 19 trenzaloreon 19 redstarium 4 strasbourgium 8 milanium 13 shakhtarton 8 dalektonium 7 gravitonite -> 1 udineson
+14 lumitron 4 bismuto 17 infinicon 20 estroncio 13 neonio 4 bromo 7 neotriton 2 cyclonite -> 1 panathinaikosium
+7 cerio 16 deathstarium 4 aaylasecurium 16 cylonium 2 criptonio 3 galatasarayon 18 barysilicate 8 celticron 18 gamorreanum 10 bromo 4 argonio 5 dobbygon 12 corinthiansium 10 aerozonium 12 galio -> 1 geocarbonium
+8 alderaanite 7 atomixite 8 besiktasium 17 milanion 15 bario 4 hafnio 1 francio 15 dalektonium -> 1 phaseron
+20 radiotrite 20 superlumineon 10 laziopton 10 gemstonium 4 hamburgerium 16 hothite -> 1 tatooinium
+8 gandalfite 3 juventon 17 germanio 2 berilio 9 huttalonium 9 bayernite 19 disprosio 10 bayernium 19 corinthiansium 17 daenerysium 4 ajaxite -> 1 lannisterium
+11 fireflyon 5 dathomiron 5 samario 15 echanius 4 astato 2 litio 16 neotriton -> 1 sithite
+17 rikkonian 6 paladio 8 cylonium 3 synthetonium 4 tauntanite 11 photovoltaon 11 atomogen 16 boro 18 pyroplasma -> 1 threepioite
+18 hajdukon 9 rikkonian 8 aromatium 9 chissium 18 promecio 11 niobio 19 hyperthermium 8 berilio 7 millenniumium 6 heisenbergium 3 gadolinio -> 1 sochauron
+20 prata 18 enxofre 5 sportingon 2 plasmalite 4 endorianite 4 mandalorium 2 cyclonite -> 1 tottenhamite
+7 gandalfite 13 radiotrite 9 nautolanium 3 betison 13 hobbitium 11 khanium 20 chronotanium 18 atomogen 12 plasmotrite 20 droidium -> 1 rosenborgite
+6 herthaton 10 gandalfite 7 nautolanon 2 rosenborgite 8 hermioneon 17 partizanum 3 geonosianon 17 millenniumium 3 baselium 17 quantumflare 5 indio 2 biovortex 20 r2d2tonium 17 aberdeenon -> 1 samario
+4 flandergon 7 cryosynthium 16 carbono 3 aurorium 16 astroglide 3 endorianite 10 coruscantite 1 bazingonium 19 actinio 11 cryophasium 6 aberdeenon 17 borgite -> 1 fluxogel
+10 gandalfite 1 juventon 14 blueson 20 magnifirium 12 moncalamariite 19 mariboron 2 astroglide 11 bario 18 nanteson 17 dinamozagrebon 14 grootium 3 neotriton 11 aluminio 7 jawaton -> 1 oxigenio
+18 atomixite 5 plasmalite 13 barbite 2 huttite 14 olympiakiton 12 katnissium -> 1 portothon
+14 geoquarkium 18 gollumon 14 breakingium 15 carbono 10 criptonio 11 astroglide 2 endorianite 15 cryostone 11 francio 10 actinio 2 helio 17 indio 12 kaminoon 4 bayernium 10 cybertronium -> 1 kashyykium
+14 malcolmite 3 panathinaikosium 3 carbono 15 plasmalite 3 potassio 1 polymorfium 15 ahsokium 7 fosforo 20 cryophasium 13 dobbygon 13 barcelonium 2 quantumfire 20 gravitonite -> 1 quigonitron
+9 enxofre 11 bocajuniun 14 cryosynthium 11 anderlechton 12 biovortex 20 buffytonium -> 1 fireflyon
+14 pyroflorum 2 promecio 3 cadmio 13 mariboron 1 scullygonium 5 redstarium 13 doctorium 8 spectranium 16 leverkusenium 4 praseodimio 11 laziopton 19 corinthiansium 10 bothanite 6 cynosilicate -> 1 stannisium
+19 fiorentinon 6 cadmio 4 fluxogel 4 biomagnium 3 cryostone 12 bazingonium 9 chronotanium 5 dinamozagrebon 8 bromo 13 atomogen 7 aerozonium 8 bothanite 20 angelite 2 galio -> 1 genothon
+12 geomorphium 13 germanio 14 forceston 12 aaylasecuron 15 baselium 19 gunganon 20 cesio 19 dinamozagrebon 18 barbtonium 8 jacktorium 19 boro 9 benficium 7 katnissium 19 gravitonite -> 1 khanium
+6 bothanion 7 ahsokium 19 bioresin 14 bayernium 14 bioquarkium 6 buffytonium -> 1 cobre
+18 arsenio 14 estanho 20 bespinium 15 antimonio 9 dumbledorium 3 felucianon 2 aerozonium 2 biochromium 12 chewbacconium 11 aberdeenon 2 cynosilicate 18 cyclonite -> 1 fiorentinon
+16 herthaton 1 spartakron 10 rosenborgite 11 rorschachon 10 francio 4 solvarium 17 sochauron 9 chissite -> 1 sublimetron
+17 carbono 12 gamorreanium 20 doctorium 10 galatasarayon 16 eopieon 16 gunganon 14 fluxorium 3 holmio 9 bolognium 8 gemstonium 2 dobbygon 18 interon -> 1 jarjarium
+13 deathstarium 9 valenciaon 3 cromo 10 galatasarayon 9 torio 13 gamorreanum 13 soloite -> 1 xenochromate
+11 atomixite 19 barcafonium 7 cadmio 11 anderlechton 9 bario 5 berilio 9 baselium 13 bayernite 16 antimonio 18 aquatronium 7 atomorphium 10 ajaxite 16 angelite 6 biogalvanite -> 1 celticron
+12 chissium 10 alderaanite 17 ferro 13 madridite 1 mustafarite 8 nitrogenio 4 sevillon 5 polymorfium 9 realite 18 tatooinium 15 corinthiansium 6 sodio -> 1 telurio
+8 aromatium 17 astronium 14 besiktasium 13 copenhagon 18 cyclotronium -> 1 doctorium
+2 hajdukon 20 chissium 19 chissitonium 3 endorianite 6 anderlechton 6 barbite 13 fosforo 7 droidium 9 biochromium 14 chewbacconium 17 gravitonite -> 1 heisenbergium
+10 napolipton 17 atomixite 10 fireflyon 4 moncalamarion 12 kashyykium 13 mandalorinon 12 niobio 14 mortygon 9 felucianite 10 milanion 9 scullygonium 2 corinthiansium 16 smeagolon 5 borgite -> 1 superlumineon
+19 tyrionton 8 bocajuniun 17 besiktasium 11 madridite 12 magnifirium 9 tuskenite 15 muggletonium 18 eopieon 17 twilekium 2 antimonio 5 phototritium 10 targaryenon 12 plasmotrite -> 1 wompacron
+3 targaryenium 8 vulptexon 3 zeniton 8 werderon 15 weasleyium 19 yavinon 3 wookium 11 whovianium 11 xwingon 18 voltaflux 3 zaragozon 20 synthetron 15 tinkertonium 4 yuzzumium 9 zombiegonium 12 trandoshanum 8 tiefighterium 8 tolkienium 15 wolfsburgium 9 talio 5 zinco 6 vortexium 19 utapauium 8 radigenium 11 zirconio 9 pyronium 5 vulptexium 16 tyrionium 10 winchesterium 11 winduon 20 zoidbergium 6 winchesteron 2 wattoium 3 womparite 11 manganes 18 xylogenium 17 titanio 2 neodimio 6 zenitron 18 starkium 18 voltagen 13 xylocarbon 15 xenonio 9 udineson 16 xenochromate 3 wompacron -> 1 ouro
