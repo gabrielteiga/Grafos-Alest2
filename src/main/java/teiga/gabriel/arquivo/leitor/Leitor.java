@@ -7,10 +7,12 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.math.BigInteger;
+import java.util.Map;
 
 public class Leitor {
     public void carregaGrafoPorArquivo(String path, Grafo grafo) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader(path));
+        Map<String, Vertice> mapaAdjacencias = grafo.getGrafo();
 
         String linha;
         while((linha = br.readLine()) != null){
@@ -24,22 +26,25 @@ public class Leitor {
                     String destino = verticeDestino[1];
                     BigInteger custo = new BigInteger(verticeOrigem[i]);
 
-                    if (grafo.getGrafo().containsKey(origem) && grafo.getGrafo().containsKey(destino)){
-                        grafo.getGrafo().get(origem).adicionaAdjacente(grafo.getGrafo().get(destino), custo);
-                    } else if (!grafo.getGrafo().containsKey(origem) && grafo.getGrafo().containsKey(destino)){
+                    if (mapaAdjacencias.containsKey(origem) && mapaAdjacencias.containsKey(destino)){
+                        mapaAdjacencias.get(origem).adicionaAdjacente(mapaAdjacencias.get(destino), custo);
+
+                    } else if (!mapaAdjacencias.containsKey(origem) && mapaAdjacencias.containsKey(destino)){
                         Vertice v = new Vertice(origem);
-                        v.adicionaAdjacente(grafo.getGrafo().get(destino), custo);
-                        grafo.getGrafo().put(origem, v);
-                    } else if (grafo.getGrafo().containsKey(origem) && !grafo.getGrafo().containsKey(destino)){
+                        v.adicionaAdjacente(mapaAdjacencias.get(destino), custo);
+                        mapaAdjacencias.put(origem, v);
+
+                    } else if (mapaAdjacencias.containsKey(origem) && !mapaAdjacencias.containsKey(destino)){
                         Vertice v = new Vertice(destino);
-                        grafo.getGrafo().get(origem).adicionaAdjacente(v, custo);
-                        grafo.getGrafo().put(destino, v);
+                        mapaAdjacencias.get(origem).adicionaAdjacente(v, custo);
+                        mapaAdjacencias.put(destino, v);
+
                     } else{
                         Vertice v1 = new Vertice(origem);
                         Vertice v2 = new Vertice(destino);
                         v1.adicionaAdjacente(v2, custo);
-                        grafo.getGrafo().put(origem, v1);
-                        grafo.getGrafo().put(destino, v2);
+                        mapaAdjacencias.put(origem, v1);
+                        mapaAdjacencias.put(destino, v2);
                     }
                 }
             }
