@@ -1,7 +1,9 @@
 package teiga.gabriel.grafos.infra.arquivo.leitor;
 
-import teiga.gabriel.grafos.domain.vertice.Vertice;
-import teiga.gabriel.grafos.domain.grafo.Grafo;
+import org.springframework.stereotype.Repository;
+import teiga.gabriel.grafos.domain.entities.grafo.GrafoRepository;
+import teiga.gabriel.grafos.domain.entities.vertice.Vertice;
+import teiga.gabriel.grafos.domain.entities.grafo.Grafo;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,8 +11,14 @@ import java.io.IOException;
 import java.math.BigInteger;
 import java.util.Map;
 
-public class Leitor {
-    public void carregaGrafoPorArquivo(String path, Grafo grafo) throws IOException {
+@Repository
+public class LeitorGrafosArquivoRepository implements GrafoRepository {
+    public LeitorGrafosArquivoRepository(){}
+
+    public Grafo carregaGrafo(String nomeCaso) throws IOException {
+        Grafo grafo = new Grafo(nomeCaso);
+
+        String path = "src/main/resources/casos/" + nomeCaso + ".txt";
         BufferedReader br = new BufferedReader(new FileReader(path));
         Map<String, Vertice> mapaAdjacencias = grafo.getGrafo();
 
@@ -51,6 +59,7 @@ public class Leitor {
         }
 
         br.close();
+        return grafo;
     }
 
 

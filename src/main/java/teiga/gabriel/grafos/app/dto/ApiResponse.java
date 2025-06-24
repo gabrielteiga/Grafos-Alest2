@@ -1,6 +1,8 @@
 package teiga.gabriel.grafos.app.dto;
 
+import java.math.BigInteger;
+
 public record ApiResponse(
-        String result,
-        String timeToExecute
+        BigInteger result,
+        long timeToExecute
     ) {}
