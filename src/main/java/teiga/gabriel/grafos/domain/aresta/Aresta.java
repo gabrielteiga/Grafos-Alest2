@@ -1,6 +1,6 @@
-package teiga.gabriel.aresta;
+package teiga.gabriel.grafos.domain.aresta;
 
-import teiga.gabriel.vertice.Vertice;
+import teiga.gabriel.grafos.domain.vertice.Vertice;
 
 import java.math.BigInteger;
 

@@ -1,4 +1,4 @@
-package teiga.gabriel.vertice;
+package teiga.gabriel.grafos.domain.vertice;
 
 public enum Cor {
     BRANCO,

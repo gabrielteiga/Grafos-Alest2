@@ -1,4 +1,4 @@
-package teiga.gabriel.arquivo.escrita;
+package teiga.gabriel.grafos.infra.arquivo.escrita;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

@@ -1,7 +1,7 @@
-package teiga.gabriel.arquivo.leitor;
+package teiga.gabriel.grafos.infra.arquivo.leitor;
 
-import teiga.gabriel.vertice.Vertice;
-import teiga.gabriel.grafo.Grafo;
+import teiga.gabriel.grafos.domain.vertice.Vertice;
+import teiga.gabriel.grafos.domain.grafo.Grafo;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

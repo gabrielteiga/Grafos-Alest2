@@ -2,12 +2,12 @@
  * @author Gabriel Palominos Teiga
  * */
 
-package teiga.gabriel.grafo;
+package teiga.gabriel.grafos.domain.grafo;
 
-import teiga.gabriel.vertice.Vertice;
-import teiga.gabriel.aresta.Aresta;
-import teiga.gabriel.arquivo.leitor.Leitor;
-import teiga.gabriel.vertice.Cor;
+import teiga.gabriel.grafos.domain.vertice.Vertice;
+import teiga.gabriel.grafos.domain.aresta.Aresta;
+import teiga.gabriel.grafos.infra.arquivo.leitor.Leitor;
+import teiga.gabriel.grafos.domain.vertice.Cor;
 
 import java.io.IOException;
 import java.math.BigInteger;

@@ -1,6 +1,6 @@
-package teiga.gabriel.main;
+package teiga.gabriel.grafos.domain.main;
 
-import teiga.gabriel.grafo.Grafo;
+import teiga.gabriel.grafos.domain.grafo.Grafo;
 
 import java.io.IOException;
 import java.math.BigInteger;
