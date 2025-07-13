@@ -2,14 +2,14 @@
 
 ## Descrição
 
-Projeto que calcula a quantidade mínima de hidrogênio necessária para produzir ouro a partir de receitas alquímicas representadas como grafos direcionados ponderados. Baseado no Trabalho 2 da disciplina de Algoritmos e Estruturas de Dados II. fileciteturn0file1
+Projeto que calcula a quantidade mínima de hidrogênio necessária para produzir ouro a partir de receitas alquímicas representadas como grafos direcionados ponderados. Baseado no Trabalho 2 da disciplina de Algoritmos e Estruturas de Dados II.
 
 ## Funcionalidades
 
 * Cálculo de hidrogênios via algoritmo DFS adaptado.
 * Leitura de receitas em arquivos `.txt`.
 * API REST com endpoint `/api/graph` para processar receitas.
-* Suíte de testes automatizados: unitários, de integração e de propriedades (JUnit, JQWik, Mockito). fileciteturn0file0
+* Suíte de testes automatizados: unitários, de integração e de propriedades (JUnit, JQWik, Mockito).
 
 ## Tecnologias Utilizadas
 
